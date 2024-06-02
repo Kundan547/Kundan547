@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Kundan547
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Kundan547
 
-<!---
-Kundan547/Kundan547 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Kundan547
+
+👀 I’m interested in Python and Java development, cloud computing with AWS, and Linux system administration.
+
+🌱 I’m currently learning advanced AWS architecture and Kubernetes for container orchestration.
+
+💞️ I’m looking to collaborate on open-source projects involving cloud infrastructure, automation, and application development.
+
+📫 How to reach me:
+- Email: kundan.vyas@example.com

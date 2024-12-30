@@ -86,8 +86,7 @@
 
 ### ⚙️ **DevOps Engineer Vibes**
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="DevOps Workflow" width="300" />
-  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" alt="Coding in Action" width="200" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="DevOps Workflow" width="150" height="150" /> <img src="https://media.giphy.com/media/Jf3f1RAh6TH0blxMZe/giphy.gif" alt="Jenkins Automation" width="150" height="150" /> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Kubernetes Workflow" width="150" height="150" /> <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python Coding" width="150" height="150" />
 </p>
 
 ---
